@@ -24,8 +24,8 @@ export default function About() {
       <h2 className="text-3xl font-bold mb-4">About Me</h2>
       <p className="text-lg text-gray-700 mb-8">
         This about page shares more information about my background and
-        work. I&apos;m currently studying web and mobile app development and
-        building projects with modern JavaScript frameworks.
+        work. I&apos;m currently studying web development and
+        building projects with modern JavaScript frameworks. Also, I'm currently SSr Backend.
       </p>
 
       <h3 className="text-2xl font-bold mb-4">Skills</h3>
